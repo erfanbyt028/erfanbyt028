@@ -1,3 +1,12 @@
+<h1 align="center">👋 Hi, I'm Erfan Bayat</h1>
+
+<p align="center">
+  <strong>💻 Front-End Developer | 🎓 Computer Engineering Student</strong><br/>
+  Passionate about creating beautiful & scalable UI with React ⚛️
+</p>
+
+---
+
 ```js
 // 🧑‍💻 About Me
 
@@ -26,7 +35,7 @@ const erfanBayat = {
   softSkills: ["Teamwork", "Problem Solving", "Communication", "Self-Learning"],
 
   contact: {
-    email: "your_email@example.com",
+    email: "erfan@example.com",
     github: "github.com/erfanbyt028",
     linkedin: "linkedin.com/in/YOUR-LINK", // optional
   },
@@ -35,22 +44,3 @@ const erfanBayat = {
 };
 
 export default erfanBayat;
-
-
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="mailto:erfan@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-erfan@example.com-blue?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://github.com/erfanbyt028" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-erfanbyt028-181717?style=flat-square&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://your-website.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-Site-0ab?style=flat-square&logo=vercel">
-  </a>
-</p>
-
