@@ -37,18 +37,20 @@ const erfanBayat = {
 export default erfanBayat;
 
 
-![Erfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfanbyt028&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanbyt028&layout=compact)
-![GitHub followers](https://img.shields.io/github/followers/erfanbyt028?style=social)
+## 📬 Connect with Me
 
----
-
-## 📬 Contact Me
-
-برای همکاری، پیشنهاد پروژه یا سوال، خوشحال می‌شم در ارتباط باشیم:
-
-- 📧 Email: [erfan@example.com](mailto:erfan@example.com)
-- 💼 LinkedIn: [linkedin.com/in/erfan](https://linkedin.com/in/YOUR-LINK)
-- 🐱 GitHub: [github.com/erfanbyt028](https://github.com/erfanbyt028)
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+<p align="left">
+  <a href="mailto:erfan@example.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-erfan@example.com-blue?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/erfanbyt028" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-erfanbyt028-181717?style=flat-square&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://your-website.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-Site-0ab?style=flat-square&logo=vercel">
+  </a>
+</p>
 
