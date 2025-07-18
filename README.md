@@ -79,11 +79,11 @@ export default erfanBayat;
 
 ## 📬 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-erfan@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erfan@example.com)
+[![Email](https://img.shields.io/badge/Email-erfan@example.com-D14836?style=flat&logo=gmail&logoColor=white)](erfanbayaat82@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-erfanbyt028-181717?style=flat&logo=github&logoColor=white)](https://github.com/erfanbyt028)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-erfanbyt028-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-erfan-bayaat-blue?style=flat&logo=linkedin)](https://linkedin.com/in/erfan-bayaat)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Site-0ab?style=flat&logo=vercel)](https://your-portfolio.com)
 
