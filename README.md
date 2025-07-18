@@ -35,3 +35,10 @@ const erfanBayat = {
 };
 
 export default erfanBayat;
+
+
+![Erfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfanbyt028&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanbyt028&layout=compact)
+
+![GitHub followers](https://img.shields.io/github/followers/erfanbyt028?style=social)
