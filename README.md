@@ -1,81 +1,77 @@
-<h1 align="center">👋 Hi, I'm Erfan Bayat</h1>
+👋 Hi, I'm Erfan Bayat
 
-<p align="center">
-  <strong>💻 Front-End Developer | 🎓 Computer Engineering Student</strong><br/>
-  Passionate about creating beautiful & scalable UI with React ⚛️
-</p>
+  💻 Front-End Developer | 🎓 Computer Engineering Student
+  Crafting intuitive, scalable, and visually stunning user interfaces with React ⚛️
 
----
 
-```js
-// 🧑‍💻 About Me
 
+🧑‍💻 About Me
+I'm a passionate Front-End Developer and Computer Engineering student from Iran, dedicated to building seamless and engaging web experiences. With a strong foundation in JavaScript and React, I specialize in creating clean, reusable UI components and leveraging modern tools to deliver high-quality solutions. I thrive on solving complex problems, collaborating with teams, and continuously learning new technologies to stay at the forefront of web development.
 const erfanBayat = {
   fullName: "Erfan Bayat",
   age: 22,
-  position: "Front-End Developer",
-  education: "Computer Engineering Student 👨‍🎓",
+  role: "Front-End Developer",
+  education: "BSc in Computer Engineering 👨‍🎓",
   location: "Iran 🇮🇷",
-  languages: ["JavaScript", "Python", "C++"],
-
-  frontendStack: {
-    framework: "React.js ⚛️",
-    stateManagement: ["Redux Toolkit", "Context API"],
-    styling: ["TailwindCSS", "CSS3", "HTML5"],
+  techStack: {
+    languages: ["JavaScript", "Python", "C++"],
+    frontend: {
+      framework: "React.js ⚛️",
+      stateManagement: ["Redux Toolkit", "Context API"],
+      styling: ["TailwindCSS", "CSS3", "HTML5"],
+    },
+    tools: ["Git & GitHub", "VS Code", "Figma", "RESTful APIs"],
   },
-
-  toolsAndPlatforms: [
-    "Git & GitHub",
-    "VS Code",
-    "Figma",
-    "RESTful APIs",
-  ],
-
-  currentlyFocusedOn: "Building scalable, clean UI components using modern JS and React.",
-  softSkills: ["Teamwork", "Problem Solving", "Communication", "Self-Learning"],
-
+  currentlyExploring: ["Next.js", "TypeScript", "Web Performance Optimization"],
+  softSkills: ["Team Collaboration", "Problem Solving", "Effective Communication", "Continuous Learning"],
   contact: {
     email: "erfan@example.com",
     github: "github.com/erfanbyt028",
-    linkedin: "linkedin.com/in/YOUR-LINK", // optional
+    linkedin: "linkedin.com/in/your-linkedin-profile",
   },
-
-  hobbies: ["📚 Learning", "🎮 Gaming", "🎧 Music", "💡 Side Projects"],
+  hobbies: ["📚 Tech Blogs", "🎮 Gaming", "🎧 Music", "💡 Open-Source Contributions"],
 };
 
 export default erfanBayat;
 
-## 🧑‍💻 Tech Stack
+🚀 Tech Stack
 
-- **Languages:** JavaScript, Python, C++
-- **Frameworks & Tools:** React.js, Redux Toolkit, TailwindCSS, Git, GitHub, Figma, REST APIs
-- **Currently Learning:** Next.js, TypeScript
+Languages: JavaScript (ES6+), Python, C++
+Frameworks & Libraries: React.js, Redux Toolkit, Context API, TailwindCSS
+Tools & Platforms: Git, GitHub, Figma, VS Code, REST APIs
+Currently Learning: Next.js, TypeScript, Web Accessibility (a11y)
 
----
+🛠️ Featured Projects
+Here are some projects I'm proud of:
 
-## 📊 GitHub Stats
+Project Name 1: A responsive web app built with React and TailwindCSS, featuring dynamic data fetching from a REST API.  
+Project Name 2: A collaborative project utilizing Redux Toolkit for state management and Figma for UI design.  
+Project Name 3: An experimental project exploring Next.js for server-side rendering and improved performance.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanbyt028&show_icons=true&theme=tokyonight" alt="Erfan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanbyt028&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+Check out my GitHub repositories for more!
+📊 GitHub Stats
 
----
+  
+  
+  
 
-## 📬 Connect with Me
 
-<p align="center">
-  <a href="mailto:erfan@example.com">
-    <img src="https://img.shields.io/badge/Gmail-erfan@example.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/erfanbyt028">
-    <img src="https://img.shields.io/badge/GitHub-erfanbyt028-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-Site-0ab?style=flat&logo=vercel" />
-  </a>
-</p>
+📬 Connect with Me
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+
+
+
+  💡 Always open to collaborating on exciting projects or discussing the latest in web dev!
