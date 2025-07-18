@@ -1,16 +1,37 @@
-## Hi there 👋
+```js
+// 🧑‍💻 About Me
 
-<!--
-**erfanbyt028/erfanbyt028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const erfanBayat = {
+  fullName: "Erfan Bayat",
+  age: 22,
+  position: "Front-End Developer",
+  education: "Computer Engineering Student 👨‍🎓",
+  location: "Iran 🇮🇷",
+  languages: ["JavaScript", "Python", "C++"],
 
-Here are some ideas to get you started:
+  frontendStack: {
+    framework: "React.js ⚛️",
+    stateManagement: ["Redux Toolkit", "Context API"],
+    styling: ["TailwindCSS", "CSS3", "HTML5"],
+  },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  toolsAndPlatforms: [
+    "Git & GitHub",
+    "VS Code",
+    "Figma",
+    "RESTful APIs",
+  ],
+
+  currentlyFocusedOn: "Building scalable, clean UI components using modern JS and React.",
+  softSkills: ["Teamwork", "Problem Solving", "Communication", "Self-Learning"],
+
+  contact: {
+    email: "your_email@example.com",
+    github: "github.com/erfanbyt028",
+    linkedin: "linkedin.com/in/YOUR-LINK", // optional
+  },
+
+  hobbies: ["📚 Learning", "🎮 Gaming", "🎧 Music", "💡 Side Projects"],
+};
+
+export default erfanBayat;
