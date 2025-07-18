@@ -38,7 +38,17 @@ export default erfanBayat;
 
 
 ![Erfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfanbyt028&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanbyt028&layout=compact)
-
 ![GitHub followers](https://img.shields.io/github/followers/erfanbyt028?style=social)
+
+---
+
+## 📬 Contact Me
+
+برای همکاری، پیشنهاد پروژه یا سوال، خوشحال می‌شم در ارتباط باشیم:
+
+- 📧 Email: [erfan@example.com](mailto:erfan@example.com)
+- 💼 LinkedIn: [linkedin.com/in/erfan](https://linkedin.com/in/YOUR-LINK)
+- 🐱 GitHub: [github.com/erfanbyt028](https://github.com/erfanbyt028)
+- 🌐 Portfolio: [your-website.com](https://your-website.com)
+
